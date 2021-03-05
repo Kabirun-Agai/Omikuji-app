@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyfirstApplication</string>
+    <string name="message_name">...</string>
+    <string name="button_text">Change!</string>
+    <string name="result_Text">...</string>
+    <string name="buttom_Text">あなたの運勢は？</string>
+</resources>
